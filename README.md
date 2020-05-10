@@ -14,6 +14,3 @@ Statische Webseite
 - ein weiterer Punkt
 - hallo
 
-[] punkt 1
-[] punkt 2
-[] punkt 3
