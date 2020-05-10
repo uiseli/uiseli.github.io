@@ -14,5 +14,5 @@ Statische Webseite
 - ein weiterer Punkt
 - hallo
 
-[_]
-[_]
+AFO über ZRH
+![AFO ueber ZRH](./afo.png)
