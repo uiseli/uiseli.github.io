@@ -16,3 +16,6 @@ Statische Webseite
 
 AFO über ZRH
 ![AFO ueber ZRH](./afo.png)
+
+:sunny:
+:monkey:
